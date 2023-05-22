@@ -1,3 +1,4 @@
 # Lab 7 - Starter
 Names: William
-https://github.com/williamheng89/sp23-cse110-lab7
+
+https://williamheng89.github.io/sp23-cse110-lab7/
